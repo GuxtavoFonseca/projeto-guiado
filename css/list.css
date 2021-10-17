@@ -1,0 +1,10 @@
+.lista{
+    width: 100%;
+}
+.lista tr:nth-child(1){
+        
+    vertical-align: top;
+    background: black;
+    color: white;
+    font-weight: bold;
+}
